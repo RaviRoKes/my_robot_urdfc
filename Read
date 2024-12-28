@@ -1,1 +1,2 @@
 ros2 launch urdf_tutorial display.launch.py model:=/home/ravik/ros2_prac/src/my_robot.urdf 
+run above command in terminal after sourcing ros2 environment and make sure to change the path for my_robot.urdf above
